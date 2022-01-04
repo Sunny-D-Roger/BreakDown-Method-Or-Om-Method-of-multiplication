@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1640024776 source:/home/om/2*2/main.cpp
+	<iostream>
+	"joinTwoDigits.h"
+	"digitExtractor.h"
+
+1639669279 source:/home/om/2*2/joinDigits.cpp
+	<iostream>
+	<string>
+
+1639670439 source:/home/om/2*2/joinTwoDigits.cpp
+	<iostream>
+	<string>
+
+1640023235 /home/om/2*2/joinTwoDigits.h
+	<iostream>
+	<string>
+
+1640025592 /home/om/2*2/digitExtractor.h
+	<iostream>
+	<vector>
+

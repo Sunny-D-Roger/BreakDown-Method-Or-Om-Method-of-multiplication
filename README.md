@@ -24,3 +24,8 @@ I would be uploading few images and texts which shows how this method acts as a 
 </br>
 
 > The second benefit is not much great for average person, but if you can calcuate some numbers in head this method provides you with a speed boost.
+
+</br>
+</br>
+
+__You can also checkout the code of this method which is in 2_2 folder (Named since we're doing a 2*2 Multiplication.)__

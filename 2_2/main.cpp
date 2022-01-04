@@ -47,26 +47,6 @@ void beginMultiplication()
 
 int main()
 {
-    /*
-    int start, i;
-    start = 10;
-
-    for( i = 10; i <= 20; i++) {
-        int save;
-        save = start * i;
-        cout << save << endl;
-    }
-
-    for ( i = 11; i <= 20; i++) {
-        int eleven = 11;
-        int save;
-        save = eleven * i;
-        cout << save << endl;
-    }
-
-    cout << endl;
-    */
-
     beginMultiplication();
 }
 

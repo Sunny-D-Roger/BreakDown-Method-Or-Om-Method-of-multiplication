@@ -34,7 +34,10 @@ void beginMultiplication()
         cout << "Step three: ";
         int second_two_digits = j.letsJoin(digit[2], digit[3]);
         int step_three = second_two_digits * digit[1];
-        cout << step_three << endl << endl;
+        cout << step_three << endl;
+
+        cout << "Step four: ";
+        cout << -digit[1] * digit[3] << endl << endl;
 
         cout << "Answer: ";
         int addAll = step_one + step_two + step_three;

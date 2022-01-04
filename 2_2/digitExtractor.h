@@ -9,7 +9,6 @@ class digitExtractor {
 
     public:
         int digit1, digit2;
-        char exit = 'e';
         vector<int> digitExtract();
 
 };
@@ -17,11 +16,9 @@ class digitExtractor {
 vector<int> digitExtractor::digitExtract() {
 
     vector<int> vec;
-    int save[4];
 
     cout << "Enter the first number: " << endl;
     cin >> digit1;
-    char exit = digit1;
     cout << "Enter the second number" << endl;
     cin >> digit2;
     cout << endl;

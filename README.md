@@ -2,7 +2,7 @@
 
 <img src="./assests/Images/breakDownEx.png">
 
-1. Multiple the first digit of both numbers her it is, 5 * 9 = 45 add two zero. </br>
+1. Multiply the first digit of both numbers here it is, 5 * 9 = 45 add two zero. </br>
 -> **4500**  
 2. Multiply the number 56 and second digit of second multiplier i.e 5 </br>
 -> **56 * 5 = 280**

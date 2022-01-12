@@ -28,4 +28,17 @@ I would be uploading few images and texts which shows how this method acts as a 
 </br>
 </br>
 
+
+***The method can be written mathematically as:***
+<br>
+
+Let A1.B1 and A2.B2 be two inputs,
+</br>
+f(A1B1 x A2B2) =  A1 x A2 x 100 </br> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;+                 A1.B1 x B2 <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;+                 A2.B2 x B1 <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;-                 A1 x A2 <br> <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; = **answer**
+
+
 __You can also checkout the code of this method which is in 2_2 folder (Named since we're doing a 2*2 Multiplication.)__

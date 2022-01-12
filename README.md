@@ -39,6 +39,12 @@ f(A1B1 x A2B2) =  A1 x A2 x 100 </br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;+                 A2.B2 x B1 <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;-                 A1 x A2 <br> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; = **answer**
+<br>
+<br>
 
+> The multiplication of A1 & A2 with the number 100 depends on the question if it was a 3_3 multiplication you would use 1000 instead of hundred and so on.<br>
+But at this point doing 3_3 multiplication with this method is not a good choice to go.<br>
+<br>
+> The steps from A1.B1 x B2 shows a pattern of numbers between different multiplications, which we will get back to later.  
 
 __You can also checkout the code of this method which is in 2_2 folder (Named since we're doing a 2*2 Multiplication.)__
